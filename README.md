@@ -6,5 +6,7 @@ Implementacja metody Java - tokenGenerator().
   5.  Metoda generuje 3 różne wersje tokenów w zależności od potrzeby usera:  5-znakowy, 10-znakowy oraz 15-znakowy
                
    Przykład tokena 5 znakowego - g4#2%
+   
    Przykład tokena 10 znakowego - g4#2%hQQ5^
+   
    Przykład tokena 15 znakowego - g4#2%hQQ5^YY5!2
